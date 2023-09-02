@@ -180,6 +180,7 @@ sections:
       subtitle:
       text: 
       email: ananyasen1607@gmail.com
+      phone:
       contact_links:
       # Automatically link email and phone or display as text?
       autolink: true
