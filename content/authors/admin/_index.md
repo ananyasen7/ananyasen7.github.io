@@ -69,5 +69,5 @@ email: ''
 highlight_name: true
 ---
 
-As an environmental stakeholder, I am always looking for ways to ensure responsible stewardship towards the natural resources. I am committed to sustainability on both an individual and community level. I am passionate to bring a positive social impact, through my research, network, sharing and learning.
+As a dedicated researcher in the field of environmental sciences, my mission is to contribute to responsible stewardship of our planet's natural resources. My commitment to sustainability extends from individual practices to influencing community-level actions. I aim to drive meaningful social impact through rigorous scientific research, fostering interdisciplinary collaborations and disseminating knowledge. Leveraging my network and expertise, I strive to create an academic environment where continuous learning and sharing are at the forefront, all with the goal of building a more sustainable future.
 {style="text-align: justify;"}
