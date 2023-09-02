@@ -180,7 +180,6 @@ sections:
       subtitle:
       text: 
       email: ananyasen1607@gmail.com
-      phone: +91 - 630 694 0559
       contact_links:
       # Automatically link email and phone or display as text?
       autolink: true
