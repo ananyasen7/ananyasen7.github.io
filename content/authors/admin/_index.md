@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Project Associate
+role: Project Associate - Ambient Air Quality Monitoring using Indigenous Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,9 +27,9 @@ bio: IIT Kanpur
 # Interests to show in About widget
 interests:
   - Atmosphere and Ocean Sciences
-  - Ambient Air Quality Monitoring
+  - Air Quality Monitoring
   - Climate Modeling and Predictive Analytics
-  - Artificial Intelligence
+  - Machine Learning in Environmental Sciences
 
 # Education to show in About widget
 education:

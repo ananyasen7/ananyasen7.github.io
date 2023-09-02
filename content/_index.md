@@ -127,7 +127,7 @@ sections:
           date_end: ''
           date_start: '2023-04-01'
           description: 'I assisted in coordinatoin of on campus recruitment for graduating students.'
-          organization: IITBBS
+          organization: IIT-BBS
           organization_url: 
           title: Student Placement Coordinator, MSc Atmospheric and Ocean Sciences
           url: ''
@@ -159,7 +159,7 @@ sections:
           date_end: ''
           date_start: '2021-08-01'
           description: 'Industrial Training - participant.'
-          organization: IITM
+          organization: IIT-M
           organization_url: 
           title: 'Short Range, Seasonal & Extended Range Forecast'
           url: ''
