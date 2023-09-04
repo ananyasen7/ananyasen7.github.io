@@ -125,6 +125,14 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
+          date_start: '2023-09-01'
+          description: 'Created a [python script](https://github.com/ananyasen7/cpcb-aqi) to fetch, aggregate, and export air quality data for specified cities and date ranges from CPCB using the given API and command-line arguments.'
+          organization: Github
+          organization_url: https://github.com/ananyasen7
+          title: Air Quality Data Fetcher from CPCB
+          url: 'https://github.com/ananyasen7/cpcb-aqi'
+        - certificate_url: 
+          date_end: ''
           date_start: '2023-04-01'
           description: 'I assisted in coordinatoin of on campus recruitment for graduating students.'
           organization: IIT-BBS
