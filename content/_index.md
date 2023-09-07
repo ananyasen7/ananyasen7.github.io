@@ -121,7 +121,7 @@ sections:
   - block: accomplishments
     id: initiatives
     content:
-      title: Initiatives & Volunteering
+      title: Initiatives
       items:
         - certificate_url: 
           date_end: ''
