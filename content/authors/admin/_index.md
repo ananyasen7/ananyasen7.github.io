@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Project Associate - Ambient Air Quality Monitoring using Indigenous Technology
+role: Research Project Associate - Ambient Air Quality Monitoring using Indigenous Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
