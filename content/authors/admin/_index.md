@@ -27,8 +27,8 @@ bio: IIT Kanpur
 # Interests to show in About widget
 interests:
   - Climate Science and Atmospheric Dynamics
-  - Air Quality Monitoring
-  - Oceanic and Atmospheric Interactions
+  - Extreme Weather Events
+  - Large Scale Oceanic and Atmospheric Interactions
   - Urban and Regional Air Quality Systems
   - Climate Modeling and Predictive Analytics
   - Machine Learning in Environmental Sciences
