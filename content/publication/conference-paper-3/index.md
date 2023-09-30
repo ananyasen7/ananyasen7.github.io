@@ -21,7 +21,7 @@ publishDate: ''
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: Abstract Submitted - Tropmet-2023 Jaipur, Rajasthan, India
+publication: Abstract Accepted - Tropmet-2023 Jaipur, Rajasthan, India
 publication_short: Tropmet-2023 Jaipur, Rajasthan, India
 
 
