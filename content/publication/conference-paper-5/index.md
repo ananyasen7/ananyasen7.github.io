@@ -21,7 +21,7 @@ publishDate: ''
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: Abstract Submitted - International Conference on Pollution Control for Clean Environment (ICPCCE-2023), Indian Institute of Technology Bhubaneswar, Odisha, India
+publication: Abstract Accepted - International Conference on Pollution Control for Clean Environment (ICPCCE-2023), Indian Institute of Technology Bhubaneswar, Odisha, India
 publication_short: International Conference on Pollution Control for Clean Environment (ICPCCE-2023), Indian Institute of Technology Bhubaneswar, Odisha, India
 
 
