@@ -20,7 +20,7 @@ publishDate: ''
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: Abstract Submitted - Indian Aerosol Science and Technology Association (IASTA), NAVI Mumbai, India
+publication: Abstract Accepted - Indian Aerosol Science and Technology Association (IASTA), NAVI Mumbai, India
 publication_short:  Indian Aerosol Science and Technology Association (IASTA), NAVI Mumbai, India
 
 
