@@ -24,13 +24,29 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Graduate Research Assistant
+          company: Desearch Research Institute Reno
+          company_url: 'https://www.dri.edu/'
+          company_logo: dri
+          location: Reno, Nevada
+          date_start: '2023-01-01'
+          date_end: ''
+          description: Working on differentiating Cyclogenesis with and without Large Amplitude Mesoscale Gravity Waves.
+        - title: PhD
+          company: University of Nevada Reno
+          company_url: 'https://www.unr.edu/'
+          company_logo: unr
+          location: Reno, Nevada
+          date_start: '2023-01-01'
+          date_end: ''
+          description: Working on differentiating Cyclogenesis with and without Large Amplitude Mesoscale Gravity Waves.
         - title: Project Associate
           company: IIT Kanpur
           company_url: 'https://www.iitk.ac.in/'
           company_logo: iitk
           location: Kanpur
           date_start: '2023-06-01'
-          date_end: ''
+          date_end: '2023-12-01'
           description: Ambient Air Quality Monitoring using Indigenous Technology (AMRIT) project for Centre of Excellence, ATMAN (Advanced Technologies for Monitoring Air-quality indicators) under the supervision of Prof. Sachidanand Tripathi.
         - title: Master's Thesis
           company: IIT Bhubaneswar

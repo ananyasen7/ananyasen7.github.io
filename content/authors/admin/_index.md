@@ -14,24 +14,25 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Project Associate, Ambient Air Quality Monitoring using Indigenous Technology
+role: PhD, Graduate Research Assistant - University of Nevada Reno/DRI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: IIT Kanpur
-    url: https://www.iitk.ac.in/
+  - name: Desearch Research Institute - Reno
+    url: https://www.dri.edu/directory/ananya-sen/
+  - name: University of Reno - Nevada
+    url: https://www.unr.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: IIT Kanpur
+bio: UNR
 
 # Interests to show in About widget
 interests:
-  - Climate Science and Atmospheric Dynamics
+  - Gravity Waves
   - Extreme Weather Events
   - Large Scale Oceanic and Atmospheric Interactions
   - Urban and Regional Air Quality Systems
   - Climate Modeling and Predictive Analytics
-  - Machine Learning in Environmental Sciences
 
 # Education to show in About widget
 education:
@@ -71,5 +72,5 @@ email: ''
 highlight_name: true
 ---
 
-As a dedicated researcher in the field of environmental sciences, my mission is to contribute to responsible stewardship of our planet's natural resources. My commitment to sustainability extends from individual practices to influencing community-level actions. I aim to drive meaningful social impact through rigorous scientific research, fostering interdisciplinary collaborations and disseminating knowledge. Leveraging my network and expertise, I strive to create an academic environment where continuous learning and sharing are at the forefront, all with the goal of building a more sustainable future.
+As a dedicated researcher in the field of environmental sciences, my mission is to contribute to the responsible stewardship of our planet's natural resources. My commitment to sustainability extends from individual practices to influencing community-level actions. I aim to drive meaningful social impact through rigorous scientific research, fostering interdisciplinary collaborations, and disseminating knowledge. Currently, I am engaged in research on mesoscale gravity waves and rossby waves utilizing the Weather Research and Forecasting (WRF) model for advanced atmospheric modeling. Leveraging my network and expertise, I strive to create an academic environment where continuous learning and sharing are at the forefront, all with the goal of building a more sustainable future.
 {style="text-align: justify;"}
