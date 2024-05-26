@@ -37,6 +37,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Atmospheric Science
+      institution: University of Nevada Reno
+      year: 2024 - ongoing
     - course: Masters of Science in Atmosphere and Ocean Sciences
       institution: IIT Bhubaneswar
       year: 2023
