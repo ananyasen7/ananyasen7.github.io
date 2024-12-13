@@ -8,7 +8,7 @@ authors:
   - admin
   - M. Kaplan 
 
-date: '2024-12-20T00:00:00Z'
+date: '2025-01-16T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +21,7 @@ publishDate: ''
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: Abstract Accepted (2025) - American Meteorological Society (AMS) 2025, New Orleans, USA
+publication: Abstract - American Meteorological Society (AMS) 2025, New Orleans, USA
 publication_short: American Meteorological Society (AMS) 2025, New Orleans, USA
 
 

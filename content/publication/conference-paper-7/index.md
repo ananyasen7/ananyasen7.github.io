@@ -21,7 +21,7 @@ publishDate: ''
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: Abstract Presentation - American Geophysical Union's Fall Meeting (AGU) 2024, Washington DC, USA
+publication: Abstract - American Geophysical Union's Fall Meeting (AGU) 2024, Washington DC, USA
 publication_short: AGU 2024, Washington DC, USA
 
 
