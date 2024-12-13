@@ -29,7 +29,7 @@ sections:
           company_url: 'https://www.dri.edu/'
           company_logo: dri
           location: Reno, Nevada
-          date_start: '2023-01-01'
+          date_start: '2024-01-01'
           date_end: ''
           description: Working on differentiating Cyclogenesis with and without Large Amplitude Mesoscale Gravity Waves.
         - title: PhD
@@ -37,7 +37,7 @@ sections:
           company_url: 'https://www.unr.edu/'
           company_logo: unr
           location: Reno, Nevada
-          date_start: '2023-01-01'
+          date_start: '2024-01-01'
           date_end: ''
           description: Working on differentiating Cyclogenesis with and without Large Amplitude Mesoscale Gravity Waves.
         - title: Project Associate
