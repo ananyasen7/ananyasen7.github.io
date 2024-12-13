@@ -91,6 +91,14 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
+          date_start: '2024-10-07'
+          description: UNR Graduate Dean’s Merit Scholarship recipient for the 2024-25 academic year in recognition of academic excellence and scholarly potential.
+          organization: UNR
+          organization_url: 
+          title: UNR
+          url: 'https://www.unr.edu/nevada-today/read-watch-listen/recognitions/10072024-graduate-deans-merit-scholarship-winners'
+        - certificate_url: 
+          date_end: ''
           date_start: '2022-05-01'
           description: Qualified UGC-CSIR NET/JRF - AIR 19th for Earth, Atmosphere & Planetry Sciences category (for Lectureship & Junior Research Fellow).
           organization: UGC NET
